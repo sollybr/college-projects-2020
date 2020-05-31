@@ -1,0 +1,4 @@
+A0,or,E1,E2
+A1,xor,E3,E4
+A2,and,A0,A1 # A2 + G0 = n-and
+G0,not,A2
